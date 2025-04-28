@@ -1,18 +1,18 @@
-*/EX 1 C program to initialize the value as 5.8 & display the same.*/
+EX NO 1 : C PROGRAM TO INITIALIZE THE VALUE AS 5.8 & DISPLAY THE SAME.
 DATE:28-04-2025
 
 
-*/AIM:*/
+AIM:
 To write a program to initialize the value as 5.8 & display the same.
 
-*/Algorithm:*/
+ALGORITHM:
 1. Start
 2. Declare a variable value of type int
 3. Initialize value with value 5.8.
 4. Print the value of value using printf.
 5. End .
 
-*/Program:*/
+PROGRAM:
 #include<stdio.h> 
 int main()
 {
@@ -25,8 +25,8 @@ Program to initialize the value as 5.8 & display the same.
 Developed by:  Prem kumar K
 RegisterNumber:  212223060209
 
-*/Output:*/
+OUTPUT:
 5.8
 
-*/Result:*/
+RESULT:
 Thus the program was executed and the output was verified successfully.
