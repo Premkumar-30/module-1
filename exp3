@@ -1,0 +1,43 @@
+EX NO 3: C PROGRAM TO FIND NUMBER OF YEARS BASED ON PRINCIPLE,RATE & SIMPLE INTEREST.
+DATE:28-04-2025
+
+
+AIM:
+To write a program to check whether the attendance is PRESENT using simple if statement.
+
+ALGORITHM:
+1. Start.
+2. Declare the variables.
+3. Prompt the user to enter a value.
+4. Read the value using scanf.
+5. Calculate the number of years using the formula:
+6. End.
+
+PROGRAM:
+#include <stdio.h> 
+#include <math.h>
+int main()
+{
+float p,n,r,si,ci; 
+scanf("%f%f%f", &p,&n,&r);
+si=((p*n*r)/100); 
+ci=(p)*(pow((1+ r/100),n));
+printf("Simple Interest = %0.2f\nCompound Interest = %0.2f", si,ci);
+return 0;
+}
+
+C program to find number of years based on principle, rate & simple interest.
+Developed by:  Prem kumar K
+RegisterNumber:  212223060209
+
+INPUT: 
+5000 
+5 
+8
+
+OUTPUT:
+Simple Interest = 2000.00
+Compound Interest = 7346.64
+
+RESULT:
+Thus, the program is executed and verified successfully
