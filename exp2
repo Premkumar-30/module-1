@@ -1,4 +1,4 @@
-EX NO 1 : C PROGRAM TO CHECK WHETHER THE ATTENDANCE IS PRESENT USING SIMPLE IF STATEMENT.
+EX NO 2 : C PROGRAM TO CHECK WHETHER THE ATTENDANCE IS PRESENT USING SIMPLE IF STATEMENT.
 DATE:28-04-2025
 
 
@@ -27,7 +27,7 @@ printf("Present");
 return 0;
 }
 
-Program to initialize the value as 5.8 & display the same.
+program to check whether the attendance is PRESENT using simple if statement.
 Developed by:  Prem kumar K
 RegisterNumber:  212223060209
 
